@@ -17,3 +17,12 @@ O aplicativo foi desenvolvido para o trabalho de extensão da estacio, disciplin
 2 - Abra o projeto no Android Studio.
 
 3 - Compile e execute o aplicativo em um emulador ou dispositivo físico.
+
+# Evidências e Testes
+
+
+https://github.com/user-attachments/assets/0a67dc22-1794-454b-b669-6d72369702a5
+
+<img width="766" height="727" alt="image" src="https://github.com/user-attachments/assets/b7565aaf-0d17-4179-bcd5-4944e758010a" />
+
+
